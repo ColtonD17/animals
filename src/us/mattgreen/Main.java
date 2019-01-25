@@ -43,4 +43,8 @@ public class Main {
         System.out.println(p.getName() + " says = " + p.talk());
         outFile.fileWrite(p.getName() + "|" + p.talk());
     }
+
+    private void AnimalInput() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
